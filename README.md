@@ -1,6 +1,6 @@
 # PlayerWallet
 <p align="center">
-  Simple ASP.NET Core Rest Api for player's wallet management
+  Simple ASP.NET Core REST API for player's wallet management
 </p>
 
 ## Usage
