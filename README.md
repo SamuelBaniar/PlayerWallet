@@ -1,6 +1,6 @@
 # PlayerWallet
 <p align="center">
-  Simple REST api app for collection of books
+  Simple ASP.NET Core Rest Api for player's wallet management
 </p>
 
 ## Usage
