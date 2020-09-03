@@ -8,13 +8,17 @@ Note: Aplication has mocked data
 
 **Examples**:  
 Get Wallet Balance By Guid:
+
 **GET** localhost:5000/api/wallet?guid=00000000-0000-0000-0000-000000000001
 
-Create Wallet:  
+Create Wallet: 
+
 **POST** localhost:5000/api/wallet?guid=00000000-0000-0000-0000-000000000003
 
-Create Transaction:  
+Create Transaction:
+
 **POST** localhost:5000/api/transaction
+
 body:  
 ```json
 {
@@ -26,6 +30,7 @@ body:
 ```
 
 **POST** localhost:5000/api/transaction
+
 body:  
 ```json
 {
@@ -37,6 +42,7 @@ body:
 ```
 
 **POST** localhost:5000/api/transaction
+
 body:  
 ```json
 {
