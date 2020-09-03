@@ -1,5 +1,5 @@
+# PlayerWallet
 <p align="center">
-  # PlayerWallet
   Simple REST api app for collection of books
 </p>
 
